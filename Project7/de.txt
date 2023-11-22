@@ -1,0 +1,6 @@
+entering SobelEdgeDetector method
+Leaving SobelEdgeDetector method
+Entering computeHist method
+Leaving computeHist method
+Entering printHist method
+Leaving printHist method
